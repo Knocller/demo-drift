@@ -113,7 +113,5 @@ requestAnimationFrame(loop);
 })();
 </script>
 </body>
-</html>
-"""
  '    'allow="fullscreen"></iframe>'
 ))

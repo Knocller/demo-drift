@@ -113,5 +113,4 @@ requestAnimationFrame(loop);
 })();
 </script>
 </body>
- '    'allow="fullscreen"></iframe>'
 ))

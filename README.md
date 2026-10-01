@@ -1,7 +1,3 @@
-import html
-from IPython.display import HTML, display
-
-GAME = r"""
 <!DOCTYPE html>
 <html lang="en">
 <head>

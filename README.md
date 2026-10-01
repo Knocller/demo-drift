@@ -116,11 +116,5 @@ requestAnimationFrame(loop);
 </body>
 </html>
 """
-with open("lantern-drift.html", "w") as f:
-    f.write(GAME)
-
-display(HTML(
-    f'<iframe srcdoc="{html.escape(GAME, quote=True)}" '
-    'width="100%" height="600" style="border:0;border-radius:8px" '
-    'allow="fullscreen"></iframe>'
+ '    'allow="fullscreen"></iframe>'
 ))

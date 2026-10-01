@@ -120,8 +120,6 @@ requestAnimationFrame(loop);
 </body>
 </html>
 """
-
-# Save a copy too, in case you want to download and open it in your own browser
 with open("lantern-drift.html", "w") as f:
     f.write(GAME)
 
